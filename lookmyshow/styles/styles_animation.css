@@ -1,0 +1,21 @@
+@keyframes color {
+    0%   { background: white;}
+    20%  { background: white;}
+    40%  { background: white;}
+    60%  { background: white;}
+    80%  { background: white;}
+    100% { background: white;}
+  }
+  
+  body {
+    background: white; /* Fallback */
+    animation: color 9s infinite linear;
+    text-align: center;
+  }
+
+  #btn-back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display: none;
+  }

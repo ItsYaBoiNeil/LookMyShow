@@ -25,7 +25,15 @@
 
 .logo{
     position: absolute;
-    top: -90px;
+    top: -20px;
+    right: 650px;
+    width: 20%;
+    z-index: 1;
+}
+
+.lmslogo{
+    position: absolute;
+    top: -20px;
     right: 650px;
     width: 20%;
     z-index: 1;
