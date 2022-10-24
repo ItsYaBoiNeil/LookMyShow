@@ -1,0 +1,32 @@
+.bg{
+    width: auto;
+    position: absolute;
+    z-index: -1;
+    top: 0px;
+    left: 0px;
+    
+}
+
+/*.container{
+
+    background-color:rgba(153, 5, 5, 0.733);
+    padding: 34px;
+    margin:auto;
+    fill-opacity: 40%;
+    border-radius: 15px;
+    
+}
+*/
+
+.container{
+
+    color: rgb(255, 255, 255);
+}
+
+.logo{
+    position: absolute;
+    top: -90px;
+    right: 650px;
+    width: 20%;
+    z-index: 1;
+}
